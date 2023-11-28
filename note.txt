@@ -1,0 +1,7 @@
+- create repositroy in github.com
+- git clone url
+- git status
+- git add .
+- git status
+- git commit -m "some message"
+- git push
